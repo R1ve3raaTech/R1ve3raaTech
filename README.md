@@ -49,15 +49,7 @@ Sistema de gestión de atracciones para parque de diversiones.
 
 ---
 
-### 🔧 [EnchapesMichael](https://github.com/R1ve3raTech/EnchapesMichael)
-Landing page para empresa de materiales de construcción y enchapes.  
-`JavaScript`
-
----
-
 ## Actualmente
-
-Desarrollando **UCR Connect** — plataforma de conexión entre becarios y alumni para la Fundación Exalumnos de la Universidad de Costa Rica. Stack: `Next.js` `Supabase` `NextAuth.js` `Claude API`.
 
 ---
 
